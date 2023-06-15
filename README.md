@@ -18,5 +18,5 @@ günceye eklenmeli hem de çocuğa bildirilmektedir. Bu skorlar o alıştırman�
 tablosunda tutulur.
 
 Programdaki tüm ayarlar, tanımlı kullanıcılar, tanımlı alıştırmalar, vb. serileştirme yöntemi kullanılarak
-oluşturululmuş bir dosyada saklanıp güncellenmektedir.
+oluşturululmuş "veri.dat" dosyasında saklanıp güncellenmektedir.
 
