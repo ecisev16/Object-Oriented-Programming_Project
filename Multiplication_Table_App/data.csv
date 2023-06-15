@@ -1,0 +1,19 @@
+E-mail;Ýsim;Alýþtýrma Adý;Doðruluk skoru;Hýz Skoru;Baþlama Tarihi;Tamamlanma Süresi;Soru Sayýsý;Soru Bilgileri;;;;
+ginny_weasley@gmail.com;Ginny;1)orta - 2 soru;100;57,44;2023-06-15T06:02:45.811300400;00:00:05.223;3; ;2x6;3x7;1x8;
+ ; ; ; ; ; ; ; ; ;Dogru;Dogru;Dogru;
+ ; ; ; ; ; ; ; ; ;00:00:02.314;00:00:01.278;00:00:01.631;
+ginny_weasley@gmail.com;Ginny;2)aaa;75;43,43;2023-06-15T06:02:56.167139600;00:00:09.211;4; ;2x4;1x2;3x2;4x2
+ ; ; ; ; ; ; ; ; ;Dogru;Dogru;Yanlis;Dogru
+ ; ; ; ; ; ; ; ; ;00:00:02.335;00:00:01.428;00:00:01.884;00:00:03.562
+ron_weasley@gmail.com;Ron;2)aaa;50;53,18;2023-06-15T06:03:31.102666100;00:00:07.521;4; ;2x4;1x2;3x2;4x2
+ ; ; ; ; ; ; ; ; ;Dogru;Dogru;Yanlis;Yanlis
+ ; ; ; ; ; ; ; ; ;00:00:02.780;00:00:02.881;00:00:00.872;00:00:00.988
+fred_weasley@gmail.com;Fred;2)aaa;100;53;2023-06-15T06:03:57.314619900;00:00:07.547;4; ;2x4;1x2;3x2;4x2
+ ; ; ; ; ; ; ; ; ;Dogru;Dogru;Dogru;Dogru
+ ; ; ; ; ; ; ; ; ;00:00:02.598;00:00:01.322;00:00:02.053;00:00:01.574
+george_weasley@gmail.com;George;2)aaa;100;63,02;2023-06-15T06:04:24.920599900;00:00:06.347;4; ;2x4;1x2;3x2;4x2
+ ; ; ; ; ; ; ; ; ;Dogru;Dogru;Dogru;Dogru
+ ; ; ; ; ; ; ; ; ;00:00:02.057;00:00:01.286;00:00:01.422;00:00:01.582
+charlie_weasley@gmail.com;Charlie;2)aaa;0;36,5;2023-06-15T06:05:11.224549100;00:00:10.959;4; ;2x4;1x2;3x2;4x2
+ ; ; ; ; ; ; ; ; ;Yanlis;Yanlis;Yanlis;Yanlis
+ ; ; ; ; ; ; ; ; ;00:00:03.678;00:00:01.250;00:00:00.893;00:00:05.138
